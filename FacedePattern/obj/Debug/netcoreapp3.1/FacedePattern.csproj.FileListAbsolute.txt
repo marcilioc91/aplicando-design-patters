@@ -1,0 +1,13 @@
+C:\Users\Alisson Gustavo\source\repos\FacedePattern\FacedePattern\bin\Debug\netcoreapp3.1\FacedePattern.exe
+C:\Users\Alisson Gustavo\source\repos\FacedePattern\FacedePattern\bin\Debug\netcoreapp3.1\FacedePattern.deps.json
+C:\Users\Alisson Gustavo\source\repos\FacedePattern\FacedePattern\bin\Debug\netcoreapp3.1\FacedePattern.runtimeconfig.json
+C:\Users\Alisson Gustavo\source\repos\FacedePattern\FacedePattern\bin\Debug\netcoreapp3.1\FacedePattern.runtimeconfig.dev.json
+C:\Users\Alisson Gustavo\source\repos\FacedePattern\FacedePattern\bin\Debug\netcoreapp3.1\FacedePattern.dll
+C:\Users\Alisson Gustavo\source\repos\FacedePattern\FacedePattern\bin\Debug\netcoreapp3.1\FacedePattern.pdb
+C:\Users\Alisson Gustavo\source\repos\FacedePattern\FacedePattern\obj\Debug\netcoreapp3.1\FacedePattern.csprojAssemblyReference.cache
+C:\Users\Alisson Gustavo\source\repos\FacedePattern\FacedePattern\obj\Debug\netcoreapp3.1\FacedePattern.AssemblyInfoInputs.cache
+C:\Users\Alisson Gustavo\source\repos\FacedePattern\FacedePattern\obj\Debug\netcoreapp3.1\FacedePattern.AssemblyInfo.cs
+C:\Users\Alisson Gustavo\source\repos\FacedePattern\FacedePattern\obj\Debug\netcoreapp3.1\FacedePattern.csproj.CoreCompileInputs.cache
+C:\Users\Alisson Gustavo\source\repos\FacedePattern\FacedePattern\obj\Debug\netcoreapp3.1\FacedePattern.dll
+C:\Users\Alisson Gustavo\source\repos\FacedePattern\FacedePattern\obj\Debug\netcoreapp3.1\FacedePattern.pdb
+C:\Users\Alisson Gustavo\source\repos\FacedePattern\FacedePattern\obj\Debug\netcoreapp3.1\FacedePattern.genruntimeconfig.cache
